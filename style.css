@@ -1,0 +1,61 @@
+/* Global */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f9fa;
+}
+
+/* Navbar */
+.navbar-brand {
+    font-weight: bold;
+}
+
+/* Jumbotron */
+.jumbotron {
+    background-color: #007bff;
+    color: #fff;
+}
+
+/* Profile */
+.profile {
+    text-align: center;
+}
+
+.profile img {
+    width: 200px;
+}
+
+/* Achievements */
+.achievements {
+    text-align: center;
+}
+
+.achievements h2 {
+    color: #007bff;
+}
+
+/* Education */
+.education {
+    text-align: center;
+}
+
+.education h2 {
+    color: #007bff;
+}
+
+/* Experience */
+.experience {
+    text-align: center;
+}
+
+.experience h2 {
+    color: #007bff;
+}
+
+/* Skills */
+.skills {
+    text-align: center;
+}
+
+.skills h2 {
+    color: #007bff;
+}
